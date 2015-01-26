@@ -1,0 +1,25 @@
+{
+  "indent": 2,
+  "node": true,
+  "curly": true,
+  "immed": true,
+  "noarg": true,
+  "undef": true,
+  "esnext": true,
+  "eqeqeq": true,
+  "newcap": true,
+  "unused": true,
+  "strict": true,
+  "jquery": true,
+  "latedef": true,
+  "bitwise": true,
+  "browser": true,
+  "camelcase": true,
+  "quotmark": "single",
+  "globals": {
+    "wrap": true,
+    "unwrap": true,
+    "Polymer": true,
+    "Platform": true
+  }
+}
